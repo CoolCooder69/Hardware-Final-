@@ -1,0 +1,16 @@
+{
+  "servo_pin": 18,
+  "closed_angle": 0,
+  "open_angle": 90,
+  "hx_dt": 5,
+  "hx_sck": 6,
+  "gpio_chip": 0,
+  "max_portion": 300,
+  "default_portion": 80,
+  "button_portion": 80,
+  "buzzer_enabled": true,
+  "lead_grams": 3,
+  "timeout_s": 30,
+  "no_flow_s": 6,
+  "fallback_g_per_s": 10
+}
